@@ -10,6 +10,12 @@ namespace HelloWorldGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello wbbbbborld2");
+
+            Console.WriteLine("Press any key to continue");
+            Console.ReadKey();
+
+
         }
     }
 }
