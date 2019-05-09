@@ -14,6 +14,10 @@ namespace HelloWorldGit
 
             Console.WriteLine("Press any key to continue");
             Console.ReadKey();
+            
+            for (int i = 0; i< 10;){
+            Console.WriteLine(i);
+            i++;}
 
 
         }
